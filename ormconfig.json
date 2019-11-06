@@ -1,10 +1,10 @@
 {
    "type": "mysql",
-   "host": "localhost",
+   "host": "<host>",
    "port": 3306,
-   "username": "root",
-   "password": "root",
-   "database": "wrap",
+   "username": "<user>",
+   "password": "<pass>",
+   "database": "<db>",
    "synchronize": true,
    "logging": false,
    "entities": [
